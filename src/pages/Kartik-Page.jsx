@@ -10,6 +10,10 @@ export default function Home() {
         <div className="relative z-10 flex justify h-full px-8">
         <h1 className="text-5xl font-extrabold text-black">Ideate. Build. Deploy.</h1>
         </div>
+        <div className='relative z-50 flex justify-center h-full px-8'>
+            <h2 className="text-4xl font-bold text-white">I am Kartik</h2>
+        </div>
+        
     </div>    
     
     );

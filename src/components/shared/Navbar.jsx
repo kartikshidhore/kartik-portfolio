@@ -4,7 +4,7 @@ const Navbar = () => {
     return(
         <nav className="top-0 left-0 w-full flex justify-between items-center p-4 bg-gray-700 shadow-md">
             <Link to="/">
-                <h1 className="text-3xl font-bold text-white">Kartik's Portfolio</h1>
+                <h1 className="text-3xl font-bold text-white">Home</h1>
             </Link>
             <div className="space-x-4">
                 <Link to="/contact">
